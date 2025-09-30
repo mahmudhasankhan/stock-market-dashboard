@@ -9,3 +9,7 @@ Will add more info on this when I get time.
 - minio
 - postgres
 - metabase
+
+## Dashboard:
+
+![stock market dashboard](assets/dashboard.png)
